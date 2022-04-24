@@ -1,0 +1,67 @@
+@font-face {
+    font-family: Boxed;
+    src: url(./BoxedRound.ttf);
+}
+
+.raya{
+    position: absolute;
+    left: 50%;
+    bottom: 8%;
+    transform: translateX(-50%);
+    width: 0.3vw;
+    height: 3.5vw;
+    border-radius: 5px;
+    background-color: rgb(255, 0, 81);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.365);
+}
+
+#velocidad{
+    position: absolute;
+    font-family: Boxed;
+    font-size: 35px;
+    color:rgb(255, 255, 255);
+    left: -3.5vw;
+    bottom: -0.5vw;
+}
+
+#gasolina-icon{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 8px;
+    left: 0.85vw;
+    bottom: 1.7vw;
+}
+
+#gasolina{
+    position: absolute;
+    font-family: Boxed;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    left: 0.85vw;
+    bottom: 2.5vw;
+}
+
+#cinturon-icon{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 8px;
+    left: 0.5vw;
+    bottom: 0.1vw;
+}
+
+#on{
+    position: absolute;
+    font-family: Boxed;
+    font-size: 8px;
+    left: 1.3vw;
+    bottom: 0vw; 
+}
+
+#km{
+    position: absolute;
+    font-family: Boxed;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    left: -2.3vw;
+    bottom: 2.5vw;
+}
