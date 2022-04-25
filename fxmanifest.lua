@@ -2,9 +2,9 @@ fx_version 'adamant'
 
 game 'common'
 
-author 'Nightt#8899 || Thanks Jaareet <3'
+author 'Xavitox#0666, Thanks Roderic'
 
-description 'FiveM ESX Carhud by Nightt#8899, Jaaret guapo'
+description 'STANDALONE & FREE CARHUD'
 
 client_scripts {
     'client/client.lua'
